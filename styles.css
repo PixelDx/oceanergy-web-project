@@ -52,3 +52,17 @@ header {
     margin: 0 8px;
     padding: 0 4px;
 }
+
+/*service section*/
+#services {
+    margin: 0 8px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    gap: 6px;
+}
+.service {
+    border: 4px solid #e6e3e3;
+    border-radius: 12px;
+}
