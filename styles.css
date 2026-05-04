@@ -82,11 +82,21 @@ header {
 /*why choose us*/
 #why-choose-us {
     margin: 0 8px;
+    display: flex;
+    justify-content: center;
 }
-#why-choose-us div {  
+#why-choose-us div div {  
     border: 2px solid #e6e3e3;
     padding: 0 4px;
-    margin: 8px 0;
+    margin: 12px 8px;
+    width: 480px;
+    border-radius: 12px;
+}
+#why-choose-us img {
+    border-radius: 12px;
+    margin: 14px 0;
+    width: auto;
+    height: 380px;
 }
 
 /*products section*/
