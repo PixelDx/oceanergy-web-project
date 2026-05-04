@@ -76,3 +76,17 @@ header {
     padding: 0 4px;
     margin: 8px 0;
 }
+
+/*products section*/
+#products {
+    margin: 0 8px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    
+}
+.product {
+    border: 4px solid #e6e3e3;
+    border-radius: 12px;
+}
