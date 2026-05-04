@@ -95,3 +95,11 @@ header {
 #contact {
     margin: 0 8px;
 }
+
+/*footer section*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8px;
+    background-color: #e6e3e3;
+}
