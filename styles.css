@@ -51,6 +51,18 @@ header {
     border-radius: 12px;
     margin: 0 8px;
     padding: 0 4px;
+    display: flex;
+    justify-content: center;
+}
+#hero div {
+    width: 600px;
+    
+}
+#hero img {
+    width: 200px;
+    height: auto;
+    border-radius: 12px;
+    margin: 8px 0;
 }
 
 /*service section*/
